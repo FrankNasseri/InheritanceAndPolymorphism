@@ -46,7 +46,7 @@ namespace InheritanceAndPolymorphism
 
         public virtual string GetDistanceTraveled()
         {
-            return "Distance Traveled:" + distanceTraveled + "\n";
+            return "Distance Traveled: " + distanceTraveled + "\n";
         }
     }
 }
